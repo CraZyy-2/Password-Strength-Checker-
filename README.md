@@ -1,19 +1,19 @@
-Password-Strength-Checker
+# Password-Strength-Checker
 
 A simple tool to help you create and maintain strong, secure passwords.
 
-📥 Installation
+## 📥 Installation
 
 Clone the repository:
 
 git clone https://github.com/CraZyy-2/Password-Strength-Checker-.git
 
-🛡️ Why Use It
+## 🛡️ Why Use It
 
 Weak passwords are one of the most common causes of account hacks.
 This checker runs your password through a test and lets you know if it's strong enough to protect your online accounts.
 
-🔍 What It Checks
+## 🔍 What It Checks
 
 The script evaluates your password based on several factors:
 
@@ -25,7 +25,7 @@ Complexity – overall structural diversity.
 
 Common Passwords – compares against a list of 10 million known weak passwords.
 
-⚙️ How It Works
+## ⚙️ How It Works
 
 The checker uses a point-based system:
 
@@ -41,6 +41,6 @@ Awards points for including multiple character categories (uppercase, lowercase,
 Final Score
 Combines all points and reports your password strength (e.g., Weak, Moderate, Strong) using simple if statements.
 
-🧑‍💻 Contributing
+## 🧑‍💻 Contributing
 
 Pull requests and ideas are welcome. Go ahead and open an issue to report bugs or request new features.
